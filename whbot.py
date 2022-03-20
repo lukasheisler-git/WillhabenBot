@@ -9,7 +9,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 def main():
     #Credentials
     wh_name = 'lukas.heisler@yahoo.de'
-    wh_pass = 'Hals&Pastillen2!'
+    wh_pass = ''
 
     # Initiate the browser
     browser  = webdriver.Chrome(ChromeDriverManager().install())
