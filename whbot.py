@@ -8,7 +8,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 def main():
     #Credentials
-    wh_name = 'lukas.heisler@yahoo.de'
+    wh_name = ''
     wh_pass = ''
 
     # Initiate the browser
